@@ -7,7 +7,7 @@
  */
 
 // Application Configuration
-define('APP_NAME', 'DomPDF UI Tester');
+define('APP_NAME', 'Project MatDom');
 define('APP_VERSION', '1.0.0');
 define('APP_DEBUG', false); // Set to true for development
 
