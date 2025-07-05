@@ -1,6 +1,6 @@
 {
-    "name": "dompdf/ui-tester",
-    "description": "Professional DomPDF UI Testing Application",
+    "name": "shmn/matdom",
+    "description": "HTML To PDF Previewer - simple php dompdf library pdf viewer",
     "type": "project",
     "require": {
         "php": ">=7.4",
