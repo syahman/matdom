@@ -53,7 +53,7 @@ A professional, production-ready PHP application for testing DomPDF HTML-to-PDF 
 
 4. **Access the Application**
    - Open your browser and navigate to the application URL
-   - Example: `http://localhost/dompdf-ui-tester/`
+   - Example: `http://localhost/matdom/`
 
 ## Usage
 
