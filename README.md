@@ -1,3 +1,8 @@
+![PHP](https://img.shields.io/badge/PHP-7.4+-blue)
+![DomPDF](https://img.shields.io/badge/DomPDF-2.0+-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Responsive](https://img.shields.io/badge/Design-Responsive-purple)
+
 # Project MatDom
 
 A professional, production-ready PHP application for testing DomPDF HTML-to-PDF conversion with a beautiful, modern interface.
