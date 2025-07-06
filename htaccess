@@ -1,3 +1,4 @@
+# rename to .htaccess to activate Apache config
 # DomPDF UI Tester - Apache Configuration
 
 # Enable rewrite engine
