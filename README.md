@@ -97,12 +97,12 @@ The application includes a comprehensive sample HTML document that demonstrates:
 
 ### File Structure
 ```
-dompdf-ui-tester/
+matdom/
 ├── index.php              # Main application interface
 ├── generate_pdf.php       # PDF generation handler
 ├── composer.json          # Dependency management
-├── README.md             # Documentation
-└── vendor/               # Composer dependencies
+├── README.md              # Documentation
+└── vendor/                # Composer dependencies
 ```
 
 ### Security Features
